@@ -7,4 +7,5 @@ int main() {
     std::cout << num1 << std::endl;
 
     return 0;
+
 }
