@@ -4,4 +4,5 @@ project(C__)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
-        youtube/5.cpp)
+
+        eolimp/905.cpp)
