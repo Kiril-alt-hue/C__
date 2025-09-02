@@ -4,5 +4,4 @@ project(C__)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
-
-        youtube/17.0.cpp)
+        Lecture/Lect1/t01.cpp)
