@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
 
-        HW/1/t1.18.cpp
+        HW/2/t2.17.cpp
 )
