@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
 
-        HW/2/t2.17.cpp
+        Labparabola/Lab4/t4.12.cpp
 )
