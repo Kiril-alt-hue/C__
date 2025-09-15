@@ -21,6 +21,8 @@ int main(void) {
             count++;
         }
 
+
+
         prev = curr;
         curr = next;
     }
