@@ -4,6 +4,8 @@ project(C__)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
-        HW/3/t3.12.cpp
+
+        Labparabola/Lab7/t7.5.cpp
+        Labparabola/Lab8/t8.1.cpp
 
 )
