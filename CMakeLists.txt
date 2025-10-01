@@ -5,7 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
 
-
-        "Labparabola/Lab5/t5.6c).cpp"
+        "Labparabola/Lab9/t9.4b).cpp"
 
 )
