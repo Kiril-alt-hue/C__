@@ -4,6 +4,8 @@ project(C__)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
-        HW/9/9.10.cpp
+        Labparabola/Lab10/mountain10.5.cpp
+        Labparabola/Lab10/mountain10.5.h
+        Labparabola/Lab10/main10.5.cpp
 
 )
