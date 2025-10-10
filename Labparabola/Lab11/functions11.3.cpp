@@ -55,6 +55,7 @@ void create_file_G(const char *source_filename, const char *dest_filename) {
         }
     }
 
+
     fclose(file_F);
     fclose(file_G);
     printf("File %s successfully created.\n", dest_filename);

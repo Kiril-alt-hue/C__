@@ -8,4 +8,5 @@ add_executable(C__
         Labparabola/Lab10/mountain10.5.h
         Labparabola/Lab10/main10.5.cpp
 
+
 )
