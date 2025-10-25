@@ -27,6 +27,7 @@ void create_test_files() {
         fprintf(luggage_file, "1 5 20.0\n"); // Ivanenko
         fprintf(luggage_file, "2 5 25.0\n"); // Sydorenko
 
+
         // Bondarenko (4) - немає пари
         fprintf(luggage_file, "4 2 8.1\n"); // Bondarenko
         fclose(luggage_file);

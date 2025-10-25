@@ -17,6 +17,7 @@ char** load_surnames(const char* filename, int* surname_count);
 struct Luggage* load_luggage(const char* filename, int* luggage_count);
 
 
+
 int find_similar_luggage_passengers(
     char** surnames,
     int surname_count,

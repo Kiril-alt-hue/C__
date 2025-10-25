@@ -8,4 +8,5 @@ add_executable(C__
         Labparabola/Lab12/t12.5.cpp
 
 
+
 )

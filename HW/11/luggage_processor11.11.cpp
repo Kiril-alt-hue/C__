@@ -53,6 +53,7 @@ char** load_surnames(const char* filename, int* surname_count) {
         }
 
 
+
         surnames[count] = (char*)malloc(strlen(buffer) + 1); // +1 для '\0'
         if (surnames[count] == NULL) {
              fprintf(stderr, "Error: Memory allocation for string failed.\n");
