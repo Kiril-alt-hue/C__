@@ -6,8 +6,9 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(C__
 
 
-
-        youtube/t23.0.cpp
+        HW/13/Vector15.12.h
+        HW/13/Vector15.12.cpp
+        HW/13/main15.12.cpp
 
 
 )
