@@ -52,6 +52,7 @@ int main() {
         }
     }
 
+
     if (minFigure != nullptr) {
         std::cout << "\nFigure with the smallest perimeter (" << minPerimeter << ") is: ";
         minFigure->print();
