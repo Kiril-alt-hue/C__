@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm> // std::swap
+
 
 template <typename T>
 class Array {
