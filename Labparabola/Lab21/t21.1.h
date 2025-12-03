@@ -4,6 +4,7 @@
 #include <string>
 #include <iostream>
 
+
 class BoolVector {
 private:
     std::vector<bool> bits;

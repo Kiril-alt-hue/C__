@@ -5,6 +5,7 @@ BoolVector::BoolVector() {}
 
 BoolVector::BoolVector(size_t size) : bits(size, false) {}
 
+
 BoolVector::BoolVector(const std::string& binaryString) {
     for (char c : binaryString) {
         if (c == '1') bits.push_back(true);

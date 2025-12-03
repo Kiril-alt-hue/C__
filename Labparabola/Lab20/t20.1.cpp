@@ -14,6 +14,7 @@ int main() {
         return 1;
     }
 
+
     std::map<std::string, int> wordFrequency;
     std::string word;
 

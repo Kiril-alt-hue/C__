@@ -7,6 +7,7 @@ int main() {
     std::cout << "Enter the number of elements: ";
     std::cin >> n;
 
+
     std::list<int> numbers;
     std::cout << "Enter the elements: ";
     for (int i = 0; i < n; ++i) {

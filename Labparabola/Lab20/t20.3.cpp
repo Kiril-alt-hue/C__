@@ -10,6 +10,7 @@ struct Point {
     int y;
 };
 
+
 struct Segment {
     Point p1;
     Point p2;

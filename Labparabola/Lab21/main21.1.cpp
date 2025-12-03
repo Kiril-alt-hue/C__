@@ -7,6 +7,7 @@ int main() {
         BoolVector v1("10110");
         BoolVector v2("01100");
 
+
         std::cout << "Vector 1: "; v1.print();
         std::cout << "Vector 2: "; v2.print();
         std::cout << "------------------------" << std::endl;
